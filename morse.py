@@ -1,5 +1,3 @@
-# Python program to implement Morse Code Translator
-
 class Encoder:
     MORSE_CODES = {'A': '.-', 'B': '-...',
                    'C': '-.-.', 'D': '-..', 'E': '.',
